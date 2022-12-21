@@ -1,13 +1,15 @@
-[
-  {
-    "name": "IceyWare",
-    "author": "???",
-    "variables": [
-      {
-        "type": "string",
-        "placeholder": "Token Key",
-        "luavariable": "_G.key"
-      }
-    ]
-  }
-]
+{
+  "scripts": [
+    {
+      "name": "IceyWare",
+      "author": "???",
+      "variables": [
+        {
+          "type": "string",
+          "placeholder": "Token Key",
+          "luavariable": "_G.key"
+        }
+      ]
+    }
+  ]
+}
